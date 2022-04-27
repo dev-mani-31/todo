@@ -1,0 +1,64 @@
+.navbar {
+    text-align : center;
+    margin : 20px;
+    background-color: bisque;
+    border-radius: 10px;
+    height: 80px; 
+    color: black;  
+     
+}
+
+
+.todo h3{
+    display: inline-block;
+}
+.login h3{
+    display: inline-block;
+}
+
+h3{
+    padding-left: 10px;
+    padding-right : 10px;
+    font-size: 25px;
+}
+
+.container{
+    background-color: bisque;
+    border-radius : 10px;
+    width : 100%;
+}
+
+.item-option p{
+    display : inline-block;
+    margin-top : 5px;
+    margin-bottom : 5px;
+    padding : 5px;
+    font-size : 20px
+}
+
+.item {
+    text-align : left;
+    width : 75%;
+}
+
+.option {
+    text-align : right;
+    width : 25%
+}
+
+div{
+
+    text-align: center;
+}
+
+.input-field{
+    margin: 10px;
+    border-radius: 10px;
+    width : 500px;
+    padding : 5px
+}
+
+.submit-button {
+    text-align: center;
+    border-radius: 5px solid black;
+}
